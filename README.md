@@ -1,1 +1,1 @@
-# GathersSMPDownDetector
+# Gathers SMP Down Detector
